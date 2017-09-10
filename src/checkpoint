@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/korde/Documents/HE-DL/inventoryclassifier/src/hedl-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/home/korde/Documents/HE-DL/inventoryclassifier/src/hedl-0.001-2conv-basic.model"
